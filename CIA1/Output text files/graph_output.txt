@@ -1,0 +1,15 @@
+Graph Structure:
+A: {'B': 6, 'C': 8}
+B: {'D': 7, 'E': 9}
+C: {'F': 12}
+D: {'E': 11, 'F': 6}
+E: {'F': 8}
+F: {'A': 9, 'C': 14}
+
+Heuristic Values:
+A: 10
+B: 8
+C: 6
+D: 5
+E: 4
+F: 2

@@ -1,0 +1,1 @@
+Branch and Bound Best Path: ['A', 'B', 'D', 'F'] with cost 19

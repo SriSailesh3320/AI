@@ -1,0 +1,1 @@
+Beam Search Best Path: ['A', 'C', 'F'] with cost 20

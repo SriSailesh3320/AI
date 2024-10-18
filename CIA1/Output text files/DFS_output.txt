@@ -1,0 +1,1 @@
+DFS Path: ['A', 'B', 'D', 'E', 'F'] with cost 32

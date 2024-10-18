@@ -1,0 +1,1 @@
+Branch and Bound Greedy + Exit Best Path: ['A', 'B', 'D', 'F'] with cost 19
